@@ -1,0 +1,3 @@
+# The documentation generator itself uses ONLY the Python standard library.
+# pdoc is needed only for the comparison experiment (and the optional CI step).
+pdoc>=14.0
